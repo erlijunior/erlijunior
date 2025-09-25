@@ -1,7 +1,7 @@
 ## Hello there! Me chamo Erli Junior 👋
 
-- 🔭 Hoje trabalho com Front-end
-- 🌱 Estudando React + Typescript
+- 🔭 Hoje trabalho com Front-end React.js • TypeScript • Next.js
+- 🌱 Estudando Node.js
 
 <a href="https://github.com/erlijunior">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=erlijunior&show_icons=true&theme=dracula" />
